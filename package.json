@@ -1,0 +1,22 @@
+{
+  "name": "cat_shelter_project",
+  "version": "1.0.0",
+  "description": "This is information about our project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdoperry/Cat_Shelter_secondone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdoperry/Cat_Shelter_secondone/issues"
+  },
+  "homepage": "https://github.com/sdoperry/Cat_Shelter_secondone#readme",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}
